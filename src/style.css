@@ -1,0 +1,41 @@
+.viewActiva {
+    color: red;
+    padding-right :15px; 
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.view {
+    color:white;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgHome{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center; 
+     size-adjust: 25%;
+}
+
+.personajeView{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.detalleView{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+
+.datosPersonaje{
+    padding: 2em;
+    margin-top: 2em;
+}
